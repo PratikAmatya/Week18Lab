@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=StudentGUI
+comment1.params=
+comment1.target=StudentGUI()
+comment2.params=
+comment2.target=void\ registrationGUI()
+comment2.text=\r\n\ Window\ to\ handel\ the\ widgets\r\n
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
